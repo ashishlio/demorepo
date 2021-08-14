@@ -1,4 +1,9 @@
-a=5
-b=6
-sum=a+b
-print(sum)
+class A():
+    def abc():
+        print("its ashish")
+        return
+class B():
+        def Bc():
+            print("Print")
+AB=A()
+print(AB.abc)
